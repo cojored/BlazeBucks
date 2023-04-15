@@ -1,0 +1,56 @@
+{
+  "token": "token",
+  "db": "db",
+
+  "prefix": "?",
+
+  "beta": ["694644198531661844", "835912791075586058", "1018893966889980035"],
+  
+  "admin": ["694644198531661844", "835912791075586058"],
+
+  "mine_size": [5, 5],
+
+  "pickaxe_types": {
+    "Wooden_Pickaxe": 5,
+    "Stone_Pickaxe": 10,
+    "Iron_Pickaxe": 15,
+    "Diamond_Pickaxe": 20,
+    "Netherite_Pickaxe": 25
+  },
+
+  "sell_values": {
+    "Iron": 25,
+    "Gold": 50,
+    "Diamond": 100,
+    "Emerald": 200
+  },
+
+  "chat_vars": {
+    "blaze": "<:blaze:1094740588345172058>",
+    "iron": "<:iron:1094741387343302666>",
+    "gold": "<:gold:1094741504871907368>",
+    "diamond": "<:diamond:1094740867698397255>",
+    "emerald": "<:emerald:1094741130110844999>",
+
+    "stone": "<:stone:1094759758893940799>",
+    "air": "<:air:1094770004341293127>",
+    "iron_ore": "<:iron_ore:1094759756478025791>",
+    "gold_ore": "<:gold_ore:1094759753508458497>",
+    "diamond_ore": "<:diamond_ore:1094759752149508156>",
+    "emerald_ore": "<:emerald_ore:1094759751147061380>",
+
+    "wooden_pickaxe": "<:wood_pickaxe:1095337385425899612>",
+    "stone_pickaxe": "<:stone_pickaxe:1095337387623718952>",
+    "iron_pickaxe": "<:iron_pickaxe:1095337388957515898>",
+    "diamond_pickaxe": "<:diamond_pickaxe:1094767891410341908>",
+    "netherite_pickaxe": "<:netherite_pickaxe:1095337386247995412>",
+
+    "wooden_pickaxe_image": "https://media.discordapp.net/attachments/1034977213302444073/1095354913141313627/wooden_pickaxe.png",
+    "stone_pickaxe_image": "https://media.discordapp.net/attachments/1034977213302444073/1095354912898027580/stone_pickaxe.png",
+    "iron_pickaxe_image": "https://media.discordapp.net/attachments/1034977213302444073/1095354913367801886/iron_pickaxe.png",
+    "diamond_pickaxe_image": "https://media.discordapp.net/attachments/1034977213302444073/1095354913913065532/diamond_pickaxe.png",
+    "netherite_pickaxe_image": "https://media.discordapp.net/attachments/1034977213302444073/1095354913560727672/netherite_pickaxe.png",
+
+    "shop_40_image": "https://images-ext-1.discordapp.net/external/3Al4HbXLIMbQeyJ6R6l55H4uvUBwJLPZ0dKvpm_IKR8/https/cdn.heppcat.com/i/wA66F"
+  }
+}
