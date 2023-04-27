@@ -19,10 +19,10 @@
   },
 
   "sell_values": {
-    "Iron": 25,
-    "Gold": 50,
-    "Diamond": 100,
-    "Emerald": 200
+    "Iron": 1000,
+    "Gold": 2000,
+    "Diamond": 3000,
+    "Emerald": 4000
   },
 
   "chat_vars": {

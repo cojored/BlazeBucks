@@ -22,8 +22,9 @@ let d: DB = new DB(config.db);
 let db: MongoClient = d.client;
 
 let shop = new Shop();
+let cooldowns: { [key: string]: number } = {};
 
-export { db, config, shop };
+export { db, config, shop, cooldowns };
 export const CommandHandler = new CMDHandler(config.prefix);
 
 client.on("ready", async () => {
